@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/nasa-potd/static/css/main.b747d286.chunk.css",
-    "main.js": "/nasa-potd/static/js/main.a9bfb69b.chunk.js",
-    "main.js.map": "/nasa-potd/static/js/main.a9bfb69b.chunk.js.map",
+    "main.css": "/nasa-potd/static/css/main.4df46bc0.chunk.css",
+    "main.js": "/nasa-potd/static/js/main.872e5904.chunk.js",
+    "main.js.map": "/nasa-potd/static/js/main.872e5904.chunk.js.map",
     "runtime-main.js": "/nasa-potd/static/js/runtime-main.180f5bea.js",
     "runtime-main.js.map": "/nasa-potd/static/js/runtime-main.180f5bea.js.map",
-    "static/css/2.bc3aac6f.chunk.css": "/nasa-potd/static/css/2.bc3aac6f.chunk.css",
-    "static/js/2.3eeef59d.chunk.js": "/nasa-potd/static/js/2.3eeef59d.chunk.js",
-    "static/js/2.3eeef59d.chunk.js.map": "/nasa-potd/static/js/2.3eeef59d.chunk.js.map",
+    "static/css/2.267b0aaf.chunk.css": "/nasa-potd/static/css/2.267b0aaf.chunk.css",
+    "static/js/2.16f2f5e9.chunk.js": "/nasa-potd/static/js/2.16f2f5e9.chunk.js",
+    "static/js/2.16f2f5e9.chunk.js.map": "/nasa-potd/static/js/2.16f2f5e9.chunk.js.map",
     "index.html": "/nasa-potd/index.html",
-    "precache-manifest.8be470c7ff724ea461a680cf85c49865.js": "/nasa-potd/precache-manifest.8be470c7ff724ea461a680cf85c49865.js",
+    "precache-manifest.6940523fa94483d779e4d6fd0247f29d.js": "/nasa-potd/precache-manifest.6940523fa94483d779e4d6fd0247f29d.js",
     "service-worker.js": "/nasa-potd/service-worker.js",
-    "static/css/2.bc3aac6f.chunk.css.map": "/nasa-potd/static/css/2.bc3aac6f.chunk.css.map",
-    "static/css/main.b747d286.chunk.css.map": "/nasa-potd/static/css/main.b747d286.chunk.css.map"
+    "static/css/2.267b0aaf.chunk.css.map": "/nasa-potd/static/css/2.267b0aaf.chunk.css.map",
+    "static/css/main.4df46bc0.chunk.css.map": "/nasa-potd/static/css/main.4df46bc0.chunk.css.map",
+    "static/media/NavControls.scss": "/nasa-potd/static/media/skip-forward.2e5c16df.svg",
+    "static/media/App.css": "/nasa-potd/static/media/stars.01adf5d3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.180f5bea.js",
-    "static/css/2.bc3aac6f.chunk.css",
-    "static/js/2.3eeef59d.chunk.js",
-    "static/css/main.b747d286.chunk.css",
-    "static/js/main.a9bfb69b.chunk.js"
+    "static/css/2.267b0aaf.chunk.css",
+    "static/js/2.16f2f5e9.chunk.js",
+    "static/css/main.4df46bc0.chunk.css",
+    "static/js/main.872e5904.chunk.js"
   ]
 }
